@@ -1,3 +1,4 @@
+![logo](https://github.com/mladejovskyy/mladejovskyy/blob/main/Github%20banner.png)
 <h1 align="center">Ahoj, 👋, jsem Tomáš</h1>
 <h3 align="center">Student IT</h3>
 
