@@ -1,4 +1,4 @@
-![logo](https://github.com/mladejovskyy/mladejovskyy/blob/main/Github%20banner.png)
+![logo](https://github.com/mladejovskyy/mladejovskyy/blob/main/Github%20banner.jpg)
 # 💫 O mně:
 👩‍💻 Student IT<br>💻 Můj web: https://mladejovsky.cz<br>🤝 Hledám nové spolupráce<br>📧 tomasmladejovsky@gmail.com
 
