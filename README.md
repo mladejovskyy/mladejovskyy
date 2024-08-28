@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js</p>
+<p align="left">👩🏻‍💻 Developing websites since 2022<br>📚 I'm currently learning Next.js</p>
 
 ###
 
