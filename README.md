@@ -69,7 +69,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tom%C3%A1%C5%A1-mlad%C4%9Bjovsk%C3%BD-27022a295/" target="_blank">
+  <a href="https://www.linkedin.com/in/mladejovsky/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:tomasmladejovsky@gmail.com" target="_blank">
