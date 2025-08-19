@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Thomas and I'm a full stack web developer from Czechia.<br>I also study IT.</p>
+<p align="left">My name is Thomas and I'm a full stack web developer from Czechia</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Developing websites since 2022<br>📚 I'm currently learning php</p>
+<p align="left">👩🏻‍💻 Developing websites since 2022<br>📚 I'm currently learning go</p>
 
 ###
 
@@ -61,9 +61,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mladejovskyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![Most Used Languages](https://raw.githubusercontent.com/mladejovskyy/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/mladejovskyy/github-stats-transparent/output/generated/overview.svg)
 
 ###
 
