@@ -1,4 +1,3 @@
-![Banner](https://github.com/mladejovskyy/mladejovskyy/blob/main/github-banner.jpg)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
